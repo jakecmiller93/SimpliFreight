@@ -1,0 +1,218 @@
+.box {
+	width: 200px;
+	height: 600px;
+	position: static;
+	max-width: 500px;
+	margin: auto;
+	text-align: center;
+}
+
+.searchBar {
+	width: 200px;
+	margin-left: 20px;
+}
+
+.box2 {
+	width: 200px;
+	height: 600px;
+	position: static;
+	margin-left: 10px;
+	margin-bottom: 25px;
+}
+
+.box3 {
+	border: 1px solid black;
+}
+
+nav.custom_class {
+	position: fixed;
+	top: 0;
+	margin-bottom: 0px;
+	padding: 5px;
+	background-color: #3F4545;
+	color: #FFFFFF;
+	width: 100%;
+}
+
+body.custom_class {
+	background-color: #F7E4C8;
+}
+
+table.custom_class {
+	border: solid 5px #515151;
+	margin: 20px;
+	padding: 1px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+	background-color: #F7E4C8;
+	line-height: 22px;
+	font-size: 14px;
+	font-family: Arial, Verdana, Tahoma, Helvetica, sans-serif;
+	font-weight: 200;
+	text-decoration: none;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+	background: white;
+	/*  white-space:pre-wrap;  */
+
+	/*  
+  		Orange = E69F24  
+  		Blue = 3AABE3
+  	 */
+}
+
+table.custom_class th {
+	padding: 10px;
+	/*  background-color:#515151; */
+	background-color: #E69F24;
+	border: solid 2px #DEDDDD;
+	color: white;
+}
+
+table.custom_class td {
+	padding: 5px;
+	border: solid 1px #515151;
+	line-height: 10px;
+	background-color: #CBE1EC;
+}
+
+table.custom_class tr {
+	margin: 0;
+	padding: 4px;
+	background-color: #F7E4C8;
+}
+
+bgi {
+	background-image: url('static/images/back2.jpg');
+}
+
+.customerheader {
+	color: white;
+	font-family: arial;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.details {
+	text-align: center;
+}
+
+.column24 {
+	float: left;
+	padding: 10px;
+}
+
+.left24, .right24 {
+	width: 30%;
+}
+
+.middle {
+	width: 40%;
+}
+
+input.custom_class {
+	margin-left: 47px;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	line-height: 1.43;
+	color: #484848;
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
+body.custom_class {
+	background-color: #FFFFFF;
+}
+
+table.custom_class2 {
+	border: solid 5px #515151;
+	margin: 20px;
+	padding: 15px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+	background-color: #F7E4C8;
+	line-height: 22px;
+	font-size: 14px;
+	font-family: Arial, Verdana, Tahoma, Helvetica, sans-serif;
+	font-weight: 200;
+	text-decoration: none;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+	background: white;
+	/*  white-space:pre-wrap;  */
+
+	/*  
+  		Orange = E69F24  
+  		Blue = 3AABE3
+  	 */
+}
+
+table.custom_class2 th {
+	padding: 10px;
+	/*  background-color:#515151; */
+	background-color: #E69F24;
+	border: solid 2px #DEDDDD;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	
+}
+
+table.custom_class2 td {
+	padding: 10px;
+	border: solid 1px #515151;
+	line-height: 10px;
+	background-color: #CBE1EC;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+table.custom_class2 tr {
+	margin: 0;
+	padding: 4px;
+	background-color: #F7E4C8;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+h2.custom_class {
+	
+	color: #E69F24;
+	text-align: center;
+	font-weight: bold;
+	font-family: monaco;
+
+	
+}
+
+	/*  
+  		Orange = E69F24  
+  		Blue = 3AABE3
+
+  	 */
+  	 
+h4.custom_class {
+	padding: 0px;
+	text-align: center;
+	
+}
+span.custom_class {
+	font-weight: bold;
+	font-style: italic;
+}
+  	 
+a.custom_class {
+	
+	color: #3AABE3;
+	font-weight: bold;
+	
+}
+
